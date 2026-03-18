@@ -80,6 +80,7 @@ project-name/
 ├── References/           # 참고 자료 정리
 ├── Reports/              # 개인 작업 로그 정리
 └── Images/               # 공유 이미지 저장
+```
 
 ---
 
