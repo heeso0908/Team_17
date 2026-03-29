@@ -85,7 +85,7 @@ project-name/
 | 구분 | 내용 |
 | --- | --- |
 | Language | Python |
-| Library | `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `statsmodels`,  |
+| Library | `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `statsmodels`  |
 | Visualization | Tableau |
 | Version Control | Git, GitHub |
 | Environment | uv |
